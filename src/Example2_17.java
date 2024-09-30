@@ -22,6 +22,7 @@ public class Example2_17{
       System.out.println("Name:" + firstName + "" + lastName);
       System.out.println("Age:" + age);
       System.out.println("Weight:" + weight);
+      System.out.println();
 
 
 
